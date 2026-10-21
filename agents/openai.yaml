@@ -1,0 +1,4 @@
+interface:
+  display_name: "天文图像直方图拉伸"
+  short_description: "用 PixInsight 文档中的 MTF 算法拉伸 FITS 与 TIFF 天文图像"
+  default_prompt: "使用 $astro-histogram-stretch 检查并拉伸我的天文图像，保留原图，输出预览和可复现参数。"
